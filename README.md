@@ -9,7 +9,7 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 3. ### Diving into different domains
 4. ### Pushing it with Projects 
 
-1. ## Learn Python (Est. time - 1 weeks)
+ ## Learn Python (Est. time - 1 weeks)
         1. Basics of Python 
         2. OOP in Python
         3. Advance Topics
@@ -20,15 +20,16 @@ A curated list of Machine learning videos, links, projects and datasets to help 
            - Basics of Flask 
         4. Practice Problems
 playist link - https://www.youtube.com/watch?v=_uQrJ0TkZlc
-2. #### Learn Numpy (Est. time 3 Days)
+
+  ## Learn Numpy (Est. time 3 Days)
         1. Numpy Playlist 
         2. Numpy Practice Problems 
 playlist link - https://www.youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W
-3. #### Learn Pandas (Est. time 4 Days)
+## Learn Pandas (Est. time 4 Days)
         1. Pandas Playlist 
         2. Pandas Problems 
 playlist link - https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
-4. ### Learn Data Visualization (Est. time 1 Week)
+ ### Learn Data Visualization (Est. time 1 Week)
         1. Matplotlib 
         2. Seaborn 
 
