@@ -1,20 +1,15 @@
 # ROADMAP Of Macine Learning
 # ML-Roadmap 
-A curated list of Machine learning videos, links, projects and datasets to help you conquer the ML landscape in 6 months
+A curated list of Machine learning videos, links, projects and datasets to help you conquer the ML
 
 ## Levels of Learning
-1. ### Testing the waters
-2. ### Gaining Conceptual depth
-3. ### Learning Practical Concepts
-4. ### Diving into different domains
-5. ### Pushing it with Projects
 
+1. ### Gaining Conceptual depth
+2. ### Learning Practical Concepts
+3. ### Diving into different domains
+4. ### Pushing it with Projects 
 
-## 1. Testing the waters (Est. time 6-8 Weeks)
-
-The goal of this level is to get you familiar with the ML universe. You will learn a bit of everything.
-
-1. #### Learn Python (Est. time - 2 weeks)
+1. ## Learn Python (Est. time - 1 weeks)
         1. Basics of Python 
         2. OOP in Python
         3. Advance Topics
@@ -23,26 +18,23 @@ The goal of this level is to get you familiar with the ML universe. You will lea
            - Regular Expressions 
            - Functional Programming 
            - Basics of Flask 
-        4. Practice Problems 
+        4. Practice Problems
+playist link - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 2. #### Learn Numpy (Est. time 3 Days)
         1. Numpy Playlist 
         2. Numpy Practice Problems 
-
+playlist link - https://www.youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W
 3. #### Learn Pandas (Est. time 4 Days)
         1. Pandas Playlist 
         2. Pandas Problems 
-
+playlist link - https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
 4. ### Learn Data Visualization (Est. time 1 Week)
         1. Matplotlib 
         2. Seaborn 
 
-5. ### Descriptive Statistics (Est. time 4 Days)
-        1. Statistics Playlist 
+5.  Learn Data Analysis Process
 
-6.  Learn Data Analysis Process (Est. time 1 week)
-        1. Playlist 
-
-7.  Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
+6.  Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
        1. Understanding your data
        2. Univariate Analysis 
        3. Bivariate and Multivariate Analysis
@@ -55,17 +47,18 @@ The goal of this level is to get you familiar with the ML universe. You will lea
        10. EDA on PIMA Diabetes Dataset - https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed
        11. EDA on Breast Cancer Dataset - https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners
 
-1. #### Learn about tensors (Est. time - 1 Day)
-        1. What are Tensors?
-2. #### Advance Statistics
+7. #### Learn about  pytorch (Est. time - 3 Day)
+        1. What are pytorch ?
+   playlist link - https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
+8. #### Advance Statistics
         1. Covariance
         2. Pearson Correlation Coefficient
         3. QQ Plot
         4. Confidence Interval
         5. Hypothesis Testing
         6. Chisquare Test, Anova Test
-        7. Playlist link - https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g 
-3. #### Probability Basics
+   playlist linl - https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
+9. #### Probability Basics
         1. Conditional Probability
         2. Independent Events
         3. Bayes Theorem
@@ -73,8 +66,8 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         5. Binomial Distribution
         6. Bernaulli Distribution
         7. Poission Distribution
-        8. Playlist Link - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY
-5. #### Linear Algebra Basics
+   8. Playlist Link - https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
+10. #### Linear Algebra Basics
         1. Representing Tabular Data
         2. Vectors
         3. Matrices
@@ -82,12 +75,13 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         5. Dot Product
         6. Equation of line in N-dim
         7. Eigen Vector and Eigen Values
-        8. Playlist Link - https://www.youtube.com/watch?v=e9h-ZZ_ahRg&list=PLKnIA16_RmvYu0fS_RuIB2eTbJcTFdrAA
-7. #### Basics of Calculus
+   8. playlist link - https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B
+           https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+11. #### Basics of Calculus
         1. Big Picture of Derivatives
         2. Maxima and Minima
-        3. Playlist link - (first 4 videos only) https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
-9. #### Machine Learning Algorithms
+   3. playlist link - https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+12. #### Machine Learning Algorithms
         1. Linear Regression 
         2. Gradient Descent 
         3. Logistic Regression 
@@ -106,9 +100,10 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         16. DBSCAN 
         17. T-sne
 
+ML Playlist link - https://archive.nptel.ac.in/courses/106/106/106106198/
+                   https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI
 
-
-## 5. Pushing it with Projects (Est. time 6-8 Weeks)
+## 15. Pushing it with Projects (Est. time 6-7 Weeks)
 
 1.  types of Projects
 2. Car Price Predictor 
