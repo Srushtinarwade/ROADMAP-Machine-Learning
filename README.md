@@ -19,7 +19,7 @@ A curated list of Machine learning videos, links, projects and datasets to help 
            - Functional Programming 
            - Basics of Flask 
         4. Practice Problems
-playist link - https://www.youtube.com/watch?v=_uQrJ0TkZlc
+playlist link - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
   ## Learn Numpy (Est. time 3 Days)
         1. Numpy Playlist 
