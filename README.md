@@ -67,7 +67,7 @@ playlist link - https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiM
         5. Binomial Distribution
         6. Bernaulli Distribution
         7. Poission Distribution
-   8. Playlist Link - https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
+    Playlist Link - https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
 10. #### Linear Algebra Basics
         1. Representing Tabular Data
         2. Vectors
@@ -76,12 +76,12 @@ playlist link - https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiM
         5. Dot Product
         6. Equation of line in N-dim
         7. Eigen Vector and Eigen Values
-   8. playlist link - https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B
+    playlist link - https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B
            https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
 11. #### Basics of Calculus
         1. Big Picture of Derivatives
         2. Maxima and Minima
-   3. playlist link - https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+     playlist link - https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 12. #### Machine Learning Algorithms
         1. Linear Regression 
         2. Gradient Descent 
