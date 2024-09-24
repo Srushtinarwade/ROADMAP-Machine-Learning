@@ -49,7 +49,7 @@ playlist link - https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiM
        11. EDA on Breast Cancer Dataset - https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners
 
 7. #### Learn about  pytorch (Est. time - 3 Day)
-        1. What are pytorch ?
+        1. What is pytorch ?
    playlist link - https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
 8. #### Advance Statistics
         1. Covariance
