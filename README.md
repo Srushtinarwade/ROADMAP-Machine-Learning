@@ -58,7 +58,7 @@ playlist link - https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiM
         4. Confidence Interval
         5. Hypothesis Testing
         6. Chisquare Test, Anova Test
-   playlist linl - https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
+   playlist link - https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
 9. #### Probability Basics
         1. Conditional Probability
         2. Independent Events
